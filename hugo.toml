@@ -1,0 +1,5 @@
+baseURL = 'https://ijustyn.com/'
+languageCode = 'en-us'
+title = 'Justyn McCabe'
+theme = 'lynx'
+
