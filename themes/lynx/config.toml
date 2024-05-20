@@ -17,8 +17,8 @@ disableKinds = ["taxonomy", "term"]
      	{ instagram = "https://instagram.com/ijustyn" },
      	{ threads = "https://threads.net/ijustyn" },
 	{ mastodon = "https://masto.ai/@ijustyn" },
-     	{ tumblr = "https://ijustyn.tumblr.com" },
-     	{ youtube = "https://youtube.com/ijustyn" },
+     	#{ tumblr = "https://ijustyn.tumblr.com" },
+     	#{ youtube = "https://youtube.com/ijustyn" },
 	#{ link = { href = "/gaming", text = "Gaming", target = "_self" } },
 
     # { email = "mailto:hello@your_domain.com" },
