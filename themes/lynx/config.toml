@@ -16,10 +16,13 @@ disableKinds = ["taxonomy", "term"]
   links = [
      	{ instagram = "https://instagram.com/ijustyn" },
      	{ threads = "https://threads.net/ijustyn" },
-	{ mastodon = "https://masto.ai/@ijustyn" },
+    	{ mastodon = "https://masto.ai/@ijustyn" },
+      { apple = { href = "https://square.link/u/k1KB2DOt", text = "Pay"} },
+
+
      	#{ tumblr = "https://ijustyn.tumblr.com" },
      	#{ youtube = "https://youtube.com/ijustyn" },
-{ link = { href = "/gaming", text = "Gaming", target = "_self" } },
+      #{ link = { href = "/gaming", text = "Gaming", target = "_self" } },
 
     # { email = "mailto:hello@your_domain.com" },
     # { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
