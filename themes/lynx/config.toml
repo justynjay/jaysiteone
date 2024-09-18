@@ -19,7 +19,7 @@ disableKinds = ["taxonomy", "term"]
 	{ mastodon = "https://masto.ai/@ijustyn" },
      	#{ tumblr = "https://ijustyn.tumblr.com" },
      	#{ youtube = "https://youtube.com/ijustyn" },
-	#{ link = { href = "/gaming", text = "Gaming", target = "_self" } },
+{ link = { href = "/gaming", text = "Gaming", target = "_self" } },
 
     # { email = "mailto:hello@your_domain.com" },
     # { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
