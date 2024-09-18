@@ -1235,7 +1235,7 @@ video {
 }
 
 .link-threads {
-  background-color: #000;
+  background-color: #333;
 }
 
 .link-tiktok {
@@ -1566,7 +1566,7 @@ video {
 @media (prefers-color-scheme: dark) {
   .dark\:bg-neutral-800 {
     --tw-bg-opacity: 1;
-    background-color: rgb(31 41 55 / var(--tw-bg-opacity));
+    background-color: rgb(00 00 00 / var(--tw-bg-opacity));
   }
 
   .dark\:text-neutral-400 {
