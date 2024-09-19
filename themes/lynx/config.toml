@@ -2,7 +2,7 @@ baseURL = "https://ijustyn.com/"
 languageCode = "en"
 defaultContentLanguage = "en"
 
-title = "Justyn McCabe"
+title = "Justyn McCabe (@ijustyn)"
 # copyright = "Copy, _right?_ :thinking_face:"
 
 enableEmoji = true
