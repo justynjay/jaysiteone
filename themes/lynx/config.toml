@@ -15,8 +15,8 @@ disableKinds = ["taxonomy", "term"]
 
   links = [
      	{ instagram = "https://instagram.com/ijustyn" },
-     	{ threads = "https://threads.net/ijustyn" },
     	{ mastodon = "https://masto.ai/@ijustyn" },
+      { threads = "https://threads.net/ijustyn" },
       { apple = { href = "https://jjay.org/tip", text = "Pay", title = "Tip @ijustyn" } },
 
 
